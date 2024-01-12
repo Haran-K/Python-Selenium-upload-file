@@ -1,6 +1,6 @@
 # How to upload file on [LambdaTest](https://www.lambdatest.com/?utm_source=github&utm_medium=repo&utm_campaign=Python-selenium-upload-file) for automation test in Python-selenium 
 
-If you want to upload a file to the LambdaTest and use it in your Python-selenium automation test, you can follow the below steps. You can refer to sample test repo [here](https://github.com/LambdaTest/python-selenium-sample).
+If you want to upload a file to the LambdaTest and use it in your Python-selenium automation test, you can follow the below steps. 
 
 # Steps:
 
